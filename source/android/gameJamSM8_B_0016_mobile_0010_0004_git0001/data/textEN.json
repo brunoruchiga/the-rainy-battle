@@ -1,0 +1,15 @@
+﻿{
+  "gameNameForLogo": "The Rainy\nBattle",
+  "versionName": "v0.4.3 ALPHA",
+  "homeScreenBottom": "Created by Bruno Ruchiga | brunoruchiga.com\nBuilt with Processing and Processing for Android\nSanta Maria, RS, Brazil | 2018",
+  "play": "Play",
+  "ok": "OK",
+  "language": "Language",
+  "english": "English",
+  "portuguese": "Português",
+  "musicOnOff": "Audio",
+  "musicOn": "On",
+  "musicOff": "Off",
+  "start": "Go!",
+  "credits": "Thank you for playing!"
+}
